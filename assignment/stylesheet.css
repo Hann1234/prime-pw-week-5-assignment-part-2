@@ -4,3 +4,16 @@ header {
   color: lightgreen;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+main {
+  background-color: lightgrey;
+  padding: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-image: url("record.png");
+  background-repeat: repeat;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
